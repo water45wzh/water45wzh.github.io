@@ -36,11 +36,13 @@
 
 .u-section-1 .u-text-3 {
   width: 484px;
-  margin: 54px auto 60px;
+  margin: 37px auto 0;
 }
 
-.u-section-1 .u-btn-3 {
-  padding: 0;
+.u-section-1 .u-custom-html-1 {
+  min-height: 592px;
+  height: auto;
+  margin: 30px 37px 7px 0;
 }
 
 @media (max-width: 1199px) {
@@ -59,6 +61,11 @@
 
   .u-section-1 .u-text-3 {
     margin-top: 71px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 570px;
+    margin-right: 0;
   }
 }
 
@@ -86,6 +93,10 @@
   .u-section-1 .u-text-3 {
     margin-top: 28px;
   }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 540px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -103,5 +114,9 @@
   .u-section-1 .u-text-3 {
     width: 340px;
     margin-top: 19px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 340px;
   }
 }
