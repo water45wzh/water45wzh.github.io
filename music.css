@@ -12,7 +12,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 345px;
-  background-image: url("images/IMG_0800.JPG");
+  background-image: url("images/mix_lzt_wzh.jpg");
   background-position: 50% 50%;
 }
 
@@ -349,7 +349,7 @@
 }
 
 .u-section-3 .u-layout-cell-4 {
-  min-height: 205px;
+  min-height: 219px;
   background-image: none;
 }
 
@@ -370,7 +370,7 @@
 
 .u-section-3 .u-text-7 {
   font-size: 0.875rem;
-  margin: 2px 0 0;
+  margin: 0;
 }
 
 .u-section-3 .u-layout-cell-5 {
@@ -385,12 +385,12 @@
 .u-section-3 .u-text-8 {
   font-weight: 700;
   font-size: 1.25rem;
-  margin: 0 auto 0 0;
+  margin: 2px 0 0 auto;
 }
 
 .u-section-3 .u-text-9 {
   font-size: 1.125rem;
-  margin: 10px 120px 0 0;
+  margin: 10px 0 0 99px;
 }
 
 .u-section-3 .u-layout-cell-6 {
@@ -418,7 +418,7 @@
 .u-section-3 .u-text-10 {
   font-weight: 700;
   font-size: 1.25rem;
-  margin: 0;
+  margin: -1px 0 0;
 }
 
 .u-section-3 .u-text-11 {
@@ -478,7 +478,7 @@
   }
 
   .u-section-3 .u-layout-cell-4 {
-    min-height: 169px;
+    min-height: 181px;
   }
 
   .u-section-3 .u-text-6 {
@@ -490,7 +490,7 @@
   }
 
   .u-section-3 .u-text-9 {
-    margin-right: 67px;
+    margin-left: 46px;
   }
 
   .u-section-3 .u-layout-cell-6 {
@@ -640,7 +640,7 @@
   }
 
   .u-section-3 .u-text-9 {
-    margin-right: 0;
+    margin-left: 0;
   }
 
   .u-section-3 .u-layout-cell-6 {
